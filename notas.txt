@@ -1,0 +1,27 @@
+potência dos paineis, como se relaciona?
+
+production forecast
+
+price variation energy market `omie.es`
+
+despesa consumo da rede distribuicao
+
+ciclos de vida da bateria
+
+uso de energia verde
+
+maximizacao do lucro c/ a venda de energia à rede
+
+----------
+
+TODO:
+
+- ver variacao da radiacao (há algum erro?)
+
+- estudar variacao dos precos compra e venda
+
+- classificador de features (semana anterior)
+
+- criar template para dissertacao, incluíndo estado da arte e partilhar
+
+----------
