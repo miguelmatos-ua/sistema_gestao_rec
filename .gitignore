@@ -177,6 +177,10 @@ cython_debug/
 # CSV files
 *.csv
 
+# Excel files
+*.xls
+*.xlsx
+
 # pickle files
 *.pickle
 *.pkl

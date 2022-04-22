@@ -16,12 +16,32 @@ maximizacao do lucro c/ a venda de energia à rede
 
 TODO:
 
-- ver variacao da radiacao (há algum erro?)
+- ver variacao da radiacao (há algum erro?) ✅
 
-- estudar variacao dos precos compra e venda
+- estudar variacao dos precos compra e venda (atenção: precos para comunidades) ❔✅
 
-- classificador de features (semana anterior)
+- classificador de features (semana anterior) ✅
 
-- criar template para dissertacao, incluíndo estado da arte e partilhar
+- criar template para dissertacao, incluíndo estado da arte e partilhar ✅
 
 ----------
+
+E = A * r(t) * G(t) * p 
+
+r -> r is the yield of the solar panel given by the ratio : electrical power (in kWp) of one solar panel divided by the area of one panel.
+Example : the solar panel yield of a PV module of 250 Wp with an area of 1.6 m2 is 15.6%.
+Be aware that this nominal ratio is given for standard test conditions (STC) : radiation=1000 W/m2, cell temperature=25 celcius degree, Wind speed=1 m/s, AM=1.5.
+The unit of the nominal power of the photovoltaic panel in these conditions is called "Watt-peak" (Wp or kWp=1000 Wp or MWp=1000000 Wp). 
+
+----------
+
+TODO:
+
+- testar apenas com as features c/ + do que 0.5% de relevancia e comparar o tempo de treino
+    - ver tmb com outras casas
+
+- limpar notebooks e meter no github
+
+- ver o tempo de previsao (muito lento)
+
+- perceber o mercado de energia (enviar dúvidas)
