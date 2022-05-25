@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-25T15:44:36.326Z" agent="5.0 (Windows)" etag="uYM8nRBMf-2_VDcyo4zI" version="18.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-25T15:45:43.161Z" agent="5.0 (Windows)" etag="mtO1aJV4koEPJKS0mmLK" version="18.1.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1221" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1483" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -150,8 +150,11 @@
         <mxCell id="lNIE8Phovc9PJsnspaaO-46" value="Fetch Grid" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1090" y="640" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="lNIE8Phovc9PJsnspaaO-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lNIE8Phovc9PJsnspaaO-50" target="lNIE8Phovc9PJsnspaaO-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lNIE8Phovc9PJsnspaaO-50" value="&lt;div&gt;Coc -&amp;gt; Cost of Charge&lt;/div&gt;&lt;div&gt;fetch2Grid€ -&amp;gt; Price, if fetching from grid&lt;/div&gt;&lt;div&gt;sell€ -&amp;gt; sell to grid price&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="75" y="425" width="230" height="50" as="geometry" />
+          <mxGeometry x="290" y="405" width="230" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
