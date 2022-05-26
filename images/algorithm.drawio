@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-26T14:42:26.256Z" agent="5.0 (Windows)" etag="mR4pMOmLCz881_CD3ekq" version="18.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-26T14:47:43.227Z" agent="5.0 (Windows)" etag="8kV8MqvFuTGBfNCvIwZJ" version="18.1.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1298" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -247,7 +247,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="h2dtAb6SDxnhXhJIHn03-105" value="Quando o consumo é menor que a média, dá prioridade ao armazenamento" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="294" y="310" width="120" height="90" as="geometry" />
+          <mxGeometry x="160" y="270" width="120" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
