@@ -78,3 +78,35 @@ _06_00,_06_30,_07_00,_07_30,_08_00,_08_30,_09_00,_09_30,_10_00,_10_30,_11_00,_11
 09/05
 
 - adicionar parametros de energia perdida e precos
+
+------------------------------
+
+custo bateria
+
+preco venda rede
+
+preco compra energy
+
+previsao consumo
+
+previsao production
+
+State of Charge
+
+# USE CASES:
+
+    3 comunidades
+        - >> prod
+        - << prod
+        - ~= prod
+
+------------------------------
+
+Baseline: Sem bateria
+
+Algoritmo 1: antiga baseline
+
+Algoritmo 2: com 
+
+
+(efficiency max = 0.982)
